@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I am Abhinav Tripathi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <!--
 **Pro-Abhinav/Pro-Abhinav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Pro-Abhinav&theme=onedark&count_private=true" />
+
+will update soon!
